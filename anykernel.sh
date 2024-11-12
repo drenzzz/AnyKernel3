@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # Global properties
 properties() { '
-kernel.string= serah mau isi nama apaan
+kernel.string= Shorekeeper Kernel
 do.devicecheck=0
 do.modules=0
 do.systemless=1
