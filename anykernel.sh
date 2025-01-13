@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Realking-V6.9-INSANE for HyperOs/AOSP for peridot
+kernel.string=Rebellion Kernul for peridot
 do.devicecheck=0
 do.modules=0
 do.systemless=0
